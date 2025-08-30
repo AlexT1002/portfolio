@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import "tailwindcss";
+
+body{
+    background-color: #101828;
+}
